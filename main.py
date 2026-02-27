@@ -1,1 +1,3 @@
-return f"Hello there, {name}!"
+def greet(name):
+    return f"Hello, {name}!"
+  
